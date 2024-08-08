@@ -2,7 +2,7 @@
 
 Konya Teknik Üniversitesi bilgisayar mühendisliği bölümü mezunuyum.
 
-Elfatek şirketinde ROS Mühendisi olarak çalışmaktayım.
+Elfatek'te ROS Mühendisi olarak çalışmaktayım.
 
 Takım olarak Konya Teknik Üniversitesi - RACLAB bünyesinde tarımsal insansız kara aracı geliştirmesi yapmaktayız. Bu kategoride 2022 Teknofest 13.sü, 2023 Teknofest 6.sı olduk. 2023 yılındaki yarışmada, en özgün yazılım ve elektronik-mekanik tasarıma verilen en özgün tasarım ödülünü kazandık.
 
