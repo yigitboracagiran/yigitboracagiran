@@ -1,6 +1,6 @@
 ### TR: Merhaba 👋
 
-Konya Teknik Üniversitesi bilgisayar mühendisliği bölümü mezunuyum.
+Konya Teknik Üniversitesi bilgisayar mühendisliği bölümü mezunuyum. Şu anda da aynı üniversitede bilgisayar mühendisliği yüksek lisansıma devam etmekteyim.
 
 Elfatek'te ROS Mühendisi olarak çalışmaktayım.
 
@@ -10,7 +10,7 @@ Ayrıca amatör liglerde futbol hakemliği yapıyorum.
 
 ### EN: Hi there 👋
 
-I graduated from Konya Technical University - computer engineering.
+I graduated from Konya Technical University - computer engineering. I am currently continuing my master's degree in computer engineering at the same university.
 
 I'm working at Elfatek as a ROS Engineer.
 
