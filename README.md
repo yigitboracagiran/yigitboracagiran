@@ -4,7 +4,7 @@ Konya Teknik Üniversitesi bilgisayar mühendisliği bölümü mezunuyum. Şu an
 
 Elfatek'te ROS Mühendisi olarak çalışmaktayım.
 
-Takım olarak Konya Teknik Üniversitesi - RACLAB bünyesinde tarımsal insansız kara aracı geliştirmesi yapmaktayız. Bu kategoride 2022 Teknofest 13.sü, 2023 Teknofest 6.sı, 2024 Teknofest 4.sü olduk. 2023 yılındaki yarışmada, en özgün yazılım ve elektronik-mekanik tasarıma verilen en özgün tasarım ödülünü kazandık.
+Takım olarak Konya Teknik Üniversitesi - RACLAB bünyesinde tarımsal insansız kara aracı geliştirdik. Bu kategoride 2022 Teknofest 13.sü, 2023 Teknofest 6.sı, 2024 Teknofest 4.sü olduk. 2023 yılındaki yarışmada, en özgün yazılım ve elektronik-mekanik tasarıma verilen en özgün tasarım ödülünü kazandık.
 
 Ayrıca amatör liglerde futbol hakemliği yapıyorum.
 
@@ -14,7 +14,7 @@ I graduated from Konya Technical University - computer engineering. I am current
 
 I'm working at Elfatek as a ROS Engineer.
 
-As a team, we are developing an agricultural unmanned land vehicle within Konya Technical University - RACLAB. We placed 13th in Teknofest 2022, 6th in Teknofest 2023, 4th in Teknofest 2024 in this category. We won the most original design reward in Teknofest 2023 which has given the most original software and electronic-mechanic design of the compatition.
+As a team, we developed an agricultural unmanned land vehicle within Konya Technical University - RACLAB. We placed 13th in Teknofest 2022, 6th in Teknofest 2023, 4th in Teknofest 2024 in this category. We won the most original design reward in Teknofest 2023 which has given the most original software and electronic-mechanic design of the compatition.
 
 Also I am a football referee in amateur leagues.
 
